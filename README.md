@@ -1,2 +1,9 @@
-# Documentation
-IPIPChain  Documents
+# 欢迎来到知识产权产业公链IPIPChain
+## 知识产权产权公链
+　　知识产权产业公链是由孚链科技打造的国内第一条具有公信节点的产业公链，其致力于聚焦行业特性，以知识产权为切入点，解决包括地理标志、专利、商标等在内的知识产权业务痛点，助力构建知识产权产业健康生态的一条公链。该产业公链是由国家知识产权运营平台监制，清华大学互联网产业研究院指导的。目前已于2018年7月28日正式启动了测试网络。现确认加入的节点有：国家知识产权运营平台，清华大学，中科院及地理标志产品相关企业等等。
+
+
+
+[IPIPChain接入指南](https://github.com/IPIPChain/IPIPChain-Testnet)
+
+[社区治理](https://github.com/IPIPChain/IPIPChain-Testnet/wiki/%E7%A4%BE%E5%8C%BA%E6%B2%BB%E7%90%86)
